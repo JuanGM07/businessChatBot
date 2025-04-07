@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Chatbot de Atención</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<!-- Chatbot Componente -->
+<div id="chatbot-container">
+    <div id="chatbot-header">
+        🤖 Asistente Virtual
+    </div>
+
+    <div id="chat-messages"></div>
+
+    <form id="chat-form">
+        <input type="text" id="user-input" placeholder="Escribe tu pregunta..." autocomplete="off" />
+        <button type="submit" id="send-btn">Enviar</button>
+    </form>
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

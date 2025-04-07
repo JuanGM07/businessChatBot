@@ -1,0 +1,218 @@
+[
+  {
+    "question": "¿Cuánto tarda el montaje de un ordenador?",
+    "answer": "El montaje de un ordenador suele tardar entre 24 y 72 horas hábiles, dependiendo de la carga de trabajo y disponibilidad de componentes."
+  },
+  {
+    "question": "¿Puedo personalizar los componentes de mi PC?",
+    "answer": "Sí, ofrecemos configuraciones totalmente personalizadas. Puedes elegir los componentes que desees desde nuestra web o consultarnos por WhatsApp."
+  },
+  {
+    "question": "¿Hacéis envíos a domicilio?",
+    "answer": "Sí, realizamos envíos a toda España mediante empresas de mensajería de confianza. El envío puede tardar entre 24 y 48 horas una vez finalizado el montaje."
+  },
+  {
+    "question": "¿Ofrecéis garantía en los ordenadores montados?",
+    "answer": "Sí, todos nuestros equipos montados tienen una garantía de 2 años, y los componentes individuales mantienen la garantía oficial del fabricante."
+  },
+  {
+    "question": "¿Qué pasa si un componente llega defectuoso?",
+    "answer": "Si algún componente está defectuoso, te lo reemplazamos sin coste adicional. Solo debes contactarnos dentro del plazo de garantía."
+  },
+  {
+    "question": "¿Puedo recoger el ordenador en persona?",
+    "answer": "Sí, puedes recoger tu equipo directamente en nuestra tienda física. Te avisaremos cuando esté listo para entrega."
+  },
+  {
+    "question": "¿Ofrecéis soporte técnico tras la compra?",
+    "answer": "Sí, ofrecemos soporte técnico básico gratuito durante los primeros 30 días. Para soporte extendido, tenemos planes opcionales."
+  },
+  {
+    "question": "¿Qué métodos de pago aceptáis?",
+    "answer": "Aceptamos tarjeta de crédito/débito, PayPal, transferencia bancaria y pago a plazos con financiación."
+  },
+  {
+    "question": "¿Puedo modificar el pedido después de haberlo realizado?",
+    "answer": "Sí, siempre que el montaje no haya comenzado, puedes modificar el pedido contactándonos directamente por correo o teléfono."
+  },
+  {
+    "question": "¿Incluye sistema operativo el ordenador?",
+    "answer": "Puedes elegir si deseas que instalemos Windows, Linux o entregarlo sin sistema operativo. Lo seleccionas durante la compra."
+  },
+  {
+    "question": "¿Qué pasa si no estoy en casa el día de la entrega?",
+    "answer": "La empresa de mensajería se pondrá en contacto para coordinar una nueva entrega. También puedes reprogramarla desde su web."
+  },
+  {
+    "question": "¿Vendéis componentes sueltos además de PCs completos?",
+    "answer": "Sí, tenemos un amplio catálogo de componentes disponibles por separado: tarjetas gráficas, procesadores, fuentes, RAM, etc."
+  },
+  {
+    "question": "¿Montáis ordenadores con componentes que ya tengo?",
+    "answer": "Sí, puedes traernos tus propios componentes y nosotros realizamos el montaje y pruebas por una tarifa fija."
+  },
+  {
+    "question": "¿Realizáis pruebas de rendimiento antes de entregar el equipo?",
+    "answer": "Sí, todos los equipos pasan por pruebas de estrés y benchmarks básicos para garantizar su funcionamiento."
+  },
+  {
+    "question": "¿Tenéis ordenadores para gaming, edición de video o trabajo profesional?",
+    "answer": "Sí, montamos equipos personalizados según tus necesidades: gaming, diseño gráfico, edición de video, arquitectura, etc."
+  },
+  {
+    "question": "¿Puedo devolver el ordenador si no me va bien?",
+    "answer": "Sí, puedes devolver el equipo siguiendo nuestra política de devoluciones."
+},
+
+  {
+      "question": "¿Qué componentes necesito para montar un ordenador?",
+      "answer": "Para montar un ordenador necesitas al menos una placa base, procesador, memoria RAM, tarjeta gráfica, disco duro o SSD, fuente de alimentación, y una caja para el sistema."
+  },
+  {
+      "question": "¿Puedo montar mi propio ordenador?",
+      "answer": "Sí, ofrecemos servicios para montar tu propio ordenador, donde puedes elegir los componentes y nosotros nos encargamos del montaje y pruebas."
+  },
+  {
+      "question": "¿Cuánto tiempo tarda el montaje de un ordenador?",
+      "answer": "El montaje suele tardar entre 2 y 3 días hábiles, dependiendo de la disponibilidad de los componentes seleccionados."
+  },
+  {
+      "question": "¿Puedo cambiar los componentes de mi ordenador después de haberlo comprado?",
+      "answer": "Sí, podemos ayudarte a cambiar los componentes del ordenador, aunque esto podría estar sujeto a condiciones de garantía."
+  },
+  {
+      "question": "¿Qué garantía tienen los ordenadores que venden?",
+      "answer": "Los ordenadores nuevos tienen una garantía de 1 año para defectos de fabricación. Además, los componentes tienen garantía del fabricante."
+  },
+  {
+      "question": "¿Ofrecen soporte técnico para los ordenadores que venden?",
+      "answer": "Sí, ofrecemos soporte técnico tanto para los ordenadores que vendemos como para los que montamos. Nuestro servicio de atención al cliente está disponible para resolver cualquier problema."
+  },
+  {
+      "question": "¿Cómo puedo saber si un componente es compatible con mi ordenador?",
+      "answer": "Ofrecemos asesoría para elegir los componentes más compatibles con tu sistema. Además, tenemos herramientas en línea para verificar la compatibilidad."
+  },
+  {
+      "question": "¿Cuáles son los métodos de pago disponibles?",
+      "answer": "Aceptamos pagos con tarjeta de crédito, transferencias bancarias, PayPal y pagos en efectivo al momento de la entrega."
+  },
+  {
+      "question": "¿Realizan envíos internacionales?",
+      "answer": "Sí, realizamos envíos internacionales. Los tiempos de entrega y los costos de envío dependen del destino."
+  },
+  {
+      "question": "¿Cuál es la política de devolución?",
+      "answer": "Nuestra política de devoluciones permite devolver productos en un plazo de 30 días a partir de la fecha de compra, siempre que no hayan sido usados y estén en su embalaje original."
+  },
+  {
+      "question": "¿Puedo devolver un producto si tiene un defecto?",
+      "answer": "Sí, si el producto tiene un defecto, lo puedes devolver o cambiar dentro del plazo de garantía. Nos encargamos de la recogida y reemplazo del producto defectuoso."
+  },
+  {
+      "question": "¿Puedo obtener un reembolso si no estoy satisfecho con el ordenador?",
+      "answer": "Si no estás satisfecho con el producto dentro de los primeros 30 días, ofrecemos un reembolso total siempre que el producto esté en condiciones nuevas y no haya sido usado."
+  },
+  {
+      "question": "¿Qué hago si mi ordenador tiene un problema después de la garantía?",
+      "answer": "Ofrecemos servicio de reparación fuera de garantía. Puedes traer el ordenador a nuestra tienda o solicitar un diagnóstico en línea."
+  },
+  {
+      "question": "¿Puedo ampliar la garantía de mi ordenador?",
+      "answer": "Sí, ofrecemos opciones para extender la garantía de tu ordenador por hasta 3 años adicionales, cubriendo tanto los componentes como el servicio técnico."
+  },
+  {
+      "question": "¿Dónde puedo ver el estado de mi pedido?",
+      "answer": "Puedes consultar el estado de tu pedido ingresando a tu cuenta en nuestro sitio web o contactando a nuestro servicio de atención al cliente."
+  },
+  {
+      "question": "¿Qué hago si no recibí mi pedido?",
+      "answer": "Si no has recibido tu pedido en el tiempo estimado, por favor contacta con nuestro servicio al cliente para investigar el estado del envío."
+  },
+  {
+    "question": "¿Cuál es el precio del montaje de un ordenador?",
+    "answer": "El precio por montaje de un ordenador varía entre 50 y 100 euros, dependiendo de la complejidad del ensamblaje y los componentes seleccionados."
+  },
+  {
+    "question": "¿Ofrecen garantía en los ordenadores montados?",
+    "answer": "Sí, ofrecemos una garantía de 2 años en todos los ordenadores montados, cubriendo defectos de fabricación y problemas de ensamblaje."
+  },
+  {
+    "question": "¿Puedo traer mis propios componentes para que los monten?",
+    "answer": "Sí, puedes traer tus propios componentes. Nos encargamos del montaje, pero recuerda que la garantía solo cubre el ensamblaje y no los componentes proporcionados por el cliente."
+  },
+  {
+    "question": "¿Cuánto tiempo tarda el montaje de un ordenador?",
+    "answer": "El tiempo de montaje suele ser de 1 a 3 días laborables, dependiendo de la carga de trabajo y la disponibilidad de los componentes."
+  },
+  {
+    "question": "¿Puedo personalizar los componentes del ordenador?",
+    "answer": "Sí, puedes elegir entre una amplia variedad de componentes según tus necesidades y presupuesto. Te asesoraremos en la selección para obtener el mejor rendimiento."
+  },
+  {
+    "question": "¿Qué marcas de componentes utilizan?",
+    "answer": "Trabajamos con marcas reconocidas como Intel, AMD, Nvidia, ASUS, MSI, Corsair y muchas otras, garantizando la calidad y fiabilidad de los componentes."
+  },
+  {
+    "question": "¿Ofrecen servicio de reparación de ordenadores?",
+    "answer": "Sí, ofrecemos servicios de reparación para ordenadores de sobremesa y portátiles. Diagnóstico y presupuesto gratuitos antes de realizar cualquier reparación."
+  },
+  {
+    "question": "¿Instalan sistemas operativos en los ordenadores?",
+    "answer": "Sí, ofrecemos la instalación de sistemas operativos como Windows y Linux. Si necesitas un sistema operativo específico, también podemos hacerlo por un coste adicional."
+  },
+  {
+    "question": "¿Puedo pagar en plazos el montaje de mi ordenador?",
+    "answer": "Ofrecemos opciones de financiación a plazos a través de empresas asociadas. Consulta las condiciones disponibles en nuestra tienda."
+  },
+  {
+    "question": "¿Qué hacer si tengo problemas con mi ordenador después del montaje?",
+    "answer": "Si tienes algún problema con el ordenador dentro del periodo de garantía, puedes traerlo a nuestra tienda y lo revisaremos sin coste adicional, siempre que el problema esté relacionado con el montaje."
+  },
+  {
+    "question": "¿Venden componentes de ordenador por separado?",
+    "answer": "Sí, vendemos componentes como tarjetas gráficas, procesadores, memorias RAM, placas base y muchos más. Puedes comprar los componentes por separado y montarlos tú mismo si lo prefieres."
+  },
+  {
+    "question": "¿Hacen envíos de ordenadores a domicilio?",
+    "answer": "Sí, realizamos envíos a toda España. El coste del envío varía según la ubicación y el tamaño del paquete. Consulta las opciones en el momento de la compra."
+  },
+  {
+    "question": "¿Puedo recoger mi ordenador en tienda después de comprarlo?",
+    "answer": "Sí, puedes optar por recogerlo en nuestra tienda física una vez que el montaje esté listo. Te avisaremos cuando esté preparado."
+  },
+  {
+    "question": "¿Ofrecen asistencia técnica post-venta?",
+    "answer": "Sí, ofrecemos soporte técnico post-venta. Si necesitas ayuda con la configuración o tienes dudas sobre el funcionamiento de tu equipo, no dudes en contactarnos."
+  },
+  {
+    "question": "¿Puedo ver una demostración del rendimiento del ordenador antes de comprarlo?",
+    "answer": "Sí, en nuestra tienda tenemos equipos de demostración donde podrás probar el rendimiento de los ordenadores según las configuraciones disponibles."
+  },
+  {
+    "question": "¿Cómo puedo saber si un componente es compatible con mi ordenador?",
+    "answer": "Nuestro equipo de expertos puede ayudarte a verificar la compatibilidad de los componentes con tu sistema. También tenemos herramientas en línea para consultar las especificaciones y compatibilidades."
+  },
+  {
+    "question": "¿Puedo obtener un presupuesto para un montaje personalizado?",
+    "answer": "Sí, puedes pedir un presupuesto personalizado para el montaje de un ordenador adaptado a tus necesidades. Solo tienes que indicarnos los componentes que deseas o tu presupuesto."
+  },
+  {
+    "question": "¿El montaje de ordenadores incluye la instalación de programas?",
+    "answer": "El montaje incluye la instalación básica del sistema operativo. Si necesitas software adicional, como programas específicos o juegos, podemos instalarlo por un coste adicional."
+  },
+  {
+    "question": "¿Qué hago si quiero cambiar algún componente después de la compra?",
+    "answer": "Si decides cambiar algún componente dentro del periodo de garantía, podemos hacerlo por un coste adicional. Si el cambio es por un defecto de fabricación, estará cubierto por la garantía."
+  },
+  {
+    "question": "¿Como se llama vuestra empresa?",
+    "answer": "Se llama JGMComponents y ofrecemos servicio de montaje y venta de ordenadores y componentes"
+  },
+  {
+    "question": "¿Cual es el nombre de vuestra empresa?",
+    "answer": "Se llama JGMComponents y ofrecemos servicio de montaje y venta de ordenadores y componentes"
+  }
+]
+
+
+
