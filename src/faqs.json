@@ -62,7 +62,7 @@
   {
     "question": "¿Puedo devolver el ordenador si no me va bien?",
     "answer": "Sí, puedes devolver el equipo siguiendo nuestra política de devoluciones."
-},
+  },
 
   {
       "question": "¿Qué componentes necesito para montar un ordenador?",
@@ -209,9 +209,82 @@
     "answer": "Se llama JGMComponents y ofrecemos servicio de montaje y venta de ordenadores y componentes"
   },
   {
-    "question": "¿Cual es el nombre de vuestra empresa?",
-    "answer": "Se llama JGMComponents y ofrecemos servicio de montaje y venta de ordenadores y componentes"
+    "question": "¿Cual es el rango de precios?",
+    "answer": "Hay precios desde los 500€ hasta los 2000€. Apto para todos los bolsillos."
+  },
+  {
+    "question": "¿Qué tipos de ordenadores tienen en stock?",
+    "answer": "Contamos con una variedad de ordenadores, incluyendo portátiles, sobremesa, estaciones de trabajo y equipos gaming. Ofrecemos configuraciones personalizables según tus necesidades."
+  },
+  {
+    "question": "¿Tienen ordenadores para gaming?",
+    "answer": "Sí, tenemos una amplia gama de ordenadores gaming con tarjetas gráficas de última generación, procesadores de alto rendimiento y sistemas de refrigeración avanzados."
+  },
+  {
+    "question": "¿Puedo personalizar los componentes de un ordenador?",
+    "answer": "Claro, puedes elegir entre diferentes procesadores, tarjetas gráficas, memoria RAM, discos duros y más para construir un equipo que se ajuste a tus necesidades."
+  },
+  {
+    "question": "¿Cuál es la diferencia entre un ordenador de sobremesa y un portátil?",
+    "answer": "Un ordenador de sobremesa ofrece mayor potencia y posibilidad de actualización, pero requiere de un espacio fijo. Un portátil es más compacto, ligero y portátil, ideal para trabajo móvil."
+  },
+  {
+    "question": "¿Qué tipos de tarjetas gráficas tienen disponibles?",
+    "answer": "Disponemos de tarjetas gráficas de Nvidia y AMD, tanto para gaming como para estaciones de trabajo profesionales. Tenemos modelos como la serie RTX 30 y 40 de Nvidia, y la serie Radeon de AMD."
+  },
+  {
+    "question": "¿Puedo añadir más memoria RAM a mi ordenador?",
+    "answer": "Sí, la mayoría de nuestros ordenadores de sobremesa y estaciones de trabajo permiten ampliar la memoria RAM. Asegúrate de que el modelo que elijas tenga ranuras libres o la posibilidad de actualizar la RAM."
+  },
+  {
+    "question": "¿Qué es un procesador de última generación?",
+    "answer": "Un procesador de última generación es aquel que utiliza la tecnología más avanzada disponible en el mercado. Estos procesadores, como los de las series Intel Core i9 o AMD Ryzen 9, ofrecen un rendimiento excepcional para tareas exigentes."
+  },
+  {
+    "question": "¿Tienen ordenadores para trabajos de diseño gráfico?",
+    "answer": "Sí, ofrecemos estaciones de trabajo con potentes tarjetas gráficas y procesadores optimizados para software de diseño como Photoshop, Illustrator y AutoCAD. Estos equipos cuentan con pantallas de alta resolución y gran capacidad de almacenamiento."
+  },
+  {
+    "question": "¿Qué tamaño de pantalla tiene el ordenador portátil más grande que venden?",
+    "answer": "El portátil más grande que ofrecemos tiene una pantalla de 17.3 pulgadas, ideal para tareas multitarea, diseño gráfico y gaming."
+  },
+  {
+    "question": "¿Cuáles son las opciones de almacenamiento disponibles?",
+    "answer": "Ofrecemos opciones de almacenamiento en discos duros HDD y unidades SSD. Los SSD son más rápidos, mientras que los HDD ofrecen mayor capacidad a un precio más bajo. También tenemos discos duros externos para almacenamiento adicional."
+  },
+  {
+    "question": "¿Qué componentes son necesarios para construir un PC de gaming?",
+    "answer": "Para construir un PC de gaming necesitas los siguientes componentes: placa base, procesador, tarjeta gráfica, memoria RAM, almacenamiento (HDD o SSD), fuente de alimentación, caja y sistema de refrigeración."
+  },
+  {
+    "question": "¿Qué es la refrigeración líquida en un PC?",
+    "answer": "La refrigeración líquida es un sistema que utiliza líquido para disipar el calor de los componentes, como el procesador y la tarjeta gráfica, ofreciendo una refrigeración más eficiente y silenciosa en comparación con los sistemas de refrigeración por aire."
+  },
+  {
+    "question": "¿Tienen ordenadores con procesadores AMD?",
+    "answer": "Sí, tenemos ordenadores con procesadores AMD, incluyendo los modelos Ryzen 5, Ryzen 7 y Ryzen 9. Son conocidos por su excelente relación calidad-precio y alto rendimiento en tareas de gaming y productividad."
+  },
+  {
+    "question": "¿Cuáles son las diferencias entre un SSD y un HDD?",
+    "answer": "El SSD (unidad de estado sólido) es más rápido, consume menos energía y es más resistente a los golpes que el HDD (disco duro mecánico), pero suele ser más caro. El HDD ofrece más capacidad a un precio más bajo, pero es más lento."
+  },
+  {
+    "question": "¿Ofrecen servicio de montaje de ordenadores?",
+    "answer": "Sí, ofrecemos un servicio de montaje de ordenadores personalizado. Puedes elegir los componentes que más te gusten y nosotros nos encargamos de ensamblarlos y probarlos para asegurarnos de que todo funcione correctamente."
+  },
+  {
+    "question": "¿Tienen tarjetas madre con soporte para overclocking?",
+    "answer": "Sí, tenemos placas base con soporte para overclocking, lo que te permitirá aumentar el rendimiento de tu procesador y otros componentes. Estas placas están diseñadas para ofrecer estabilidad incluso bajo cargas elevadas."
+  },
+  {
+    "question": "¿Qué es el overclocking en un procesador?",
+    "answer": "El overclocking es el proceso de aumentar la frecuencia de reloj de un procesador más allá de sus especificaciones estándar para obtener un mejor rendimiento. Esto se hace mediante ajustes en la configuración del BIOS o utilizando software especializado."
+  },
+  {
+    "question": "¿Tienen ordenadores con pantallas táctiles?",
+    "answer": "Sí, contamos con algunos modelos de ordenadores portátiles con pantallas táctiles, ideales para tareas de diseño o para aquellos que prefieren la interacción directa con la pantalla."
   }
+  
 ]
 
 
