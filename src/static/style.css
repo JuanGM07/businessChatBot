@@ -1,4 +1,14 @@
 /* Chatbot container */
+body {
+  background-color: #132554; /* Fondo azul oscuro */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
 #chatbot-container {
     position: fixed;
     bottom: 20px;
